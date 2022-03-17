@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda De Contatos</string>
+    <string name="title_home">Meus contatos</string>
+    <string name="title_new_contact">Novo contato</string>
+    <string name="label_msg_confirm">Contato cadastrado com sucesso!!!</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone">Telefone</string>
+</resources>
