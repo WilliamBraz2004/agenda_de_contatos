@@ -4,7 +4,7 @@
  
 <h2>💬Descrição:</h2>
 
-Aplicativo Pokédex, feito no Android Studio, com Kotlin, da cadeira de Desenvolvimento de Aplicativos I, do curso técnico em informatica para internet, da escola QI.
+Aplicativo de agenda de contatos, com Banco de Dados. Feito no Android Studio, com Kotlin, da cadeira de Desenvolvimento de Aplicativos I, do curso técnico em informatica para internet, da escola QI.
 
 <h2>📱Tela do projeto</h2>
 
