@@ -8,7 +8,7 @@ Aplicativo de agenda de contatos, com Banco de Dados. Feito no Android Studio, c
 
 <h2>📱Telas do projeto</h2>
 
-<img src="https://user-images.githubusercontent.com/86376135/170041207-683745aa-ddf8-4b51-855c-56e1a005dcab.jpg" width="300px"/> <img src="https://user-images.githubusercontent.com/86376135/170041236-686e5487-80a5-4d57-843c-2cbe3ce62b18.jpg" width="300px"/> <img src="https://user-images.githubusercontent.com/86376135/170041253-d0ece5bc-41b6-429c-b340-c10957c7360e.jpg" width="300px"/> 
+<img src="https://user-images.githubusercontent.com/86376135/170041207-683745aa-ddf8-4b51-855c-56e1a005dcab.jpg" width="200px"/> <img src="https://user-images.githubusercontent.com/86376135/170041236-686e5487-80a5-4d57-843c-2cbe3ce62b18.jpg" width="200px"/> <img src="https://user-images.githubusercontent.com/86376135/170041253-d0ece5bc-41b6-429c-b340-c10957c7360e.jpg" width="200px"/> 
 
 <h2>✒️Autor</h2>
 
